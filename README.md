@@ -1,4 +1,5 @@
 # ProvaAndroid
+
 Repositório criado para colocar os códigos da prova da matéria de Programação para Dispositivos Móveis
 
 ## Instruções
@@ -22,5 +23,4 @@ Todas as telas devem ter uma imagem do TRE
 
 ## Execução
 
-
-
+<img src="/assets/Screen_Recording_20241121_100430_Votacao.gif">
